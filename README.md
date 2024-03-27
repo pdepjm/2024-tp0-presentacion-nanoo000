@@ -1,4 +1,6 @@
 ## Presentacion tp0-Ignacio Martín Córdoba 
+### Legajo
+208.721-2
 ### Sobre mi
 - Estudie tecnico electromecanico en el leonxiii.
 - Me gusta ver fútbol (generalmente veo la Premier League o fútbol argentino) y soy hincha de Boca"
